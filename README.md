@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Banner]("banner.png")
+<img src="banner.png" />
 <h1>Hello World</h1>
