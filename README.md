@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="banner.jpg"  height="225px" width="400px"/>
+<img src="banner.jpg" width="100%"/>
 <h1>Hello World</h1>
