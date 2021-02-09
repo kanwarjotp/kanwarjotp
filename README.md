@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<img src="banner.jpg" width="100%"/>
-
 -->
+
+<img src="banner.png" width="100%"/>
 <h1>Hello World</h1>
