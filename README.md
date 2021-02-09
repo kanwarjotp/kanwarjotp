@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="banner2.png"/>
+  <img src="banner2.png"/>
+</p>
+<p align="center">
+  <b>Web Development | Python Development | Web Design | Photoshop</b>
 </p>
