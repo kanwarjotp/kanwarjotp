@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="banner.png" width="100%"/>
+<img src="banner2.png" width="100%"/>
 <h1>Hello World</h1>
