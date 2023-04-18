@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="banner2.png"/>
 </p>
-<p align="center">
-  <b>Web | Python | Design </b>
-</p>
