@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-[![My footprint on GitHub](https://github-readme-stats.vercel.app/api?username=kanwarjotp)](https://github.com/anuraghazra/github-readme-stats)
+[![My footprint on GitHub](https://github-readme-stats.vercel.app/api?username=kanwarjotp)](https://github.com/kanwarjotp/github-readme-stats)
 </p>
